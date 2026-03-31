@@ -35,14 +35,6 @@ Logistic Regression / Naive Bayes
 Prediction
 Input: Review text
 Output: Fake or Genuine
-🚀 How to Run
-1. Clone the Repository
-git clone https://github.com/your-username/fake-review-detection.git
-cd fake-review-detection
-2. Install Dependencies
-pip install pandas scikit-learn
-3. Run the Program
-python main.py
 🧪 Example
 
 Input:
